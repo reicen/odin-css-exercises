@@ -1,0 +1,17 @@
+/* i prefer using the button element for this, but the activity wants me to group selectors tho */
+.one, 
+.two {
+    font-size: 28px;
+    font-family: 'Times New Roman', 'Helvetica', sans-serif;
+    border-style: outset;
+    border-color: lightgray;
+}
+
+.one {
+    background-color: black;
+    color: white;
+}
+
+.two {
+    background-color: yellow;
+}
